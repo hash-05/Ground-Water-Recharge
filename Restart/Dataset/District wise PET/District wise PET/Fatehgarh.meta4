@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metalink xmlns="urn:ietf:params:xml:ns:metalink">
+    <published>2023-03-22T16:23:16Z</published>
+    <generator>PyWPS/4.5.2</generator>
+
+    <file name="output_01.csv">
+        <identity>CSV file</identity>
+        <size>5637</size>
+        <metaurl mediatype="text/plain">https://ceda-wps-ui.ceda.ac.uk/outputs/flamingo/d9d0a0ac-c8cd-11ed-a108-005056857b66/output_01.csv</metaurl>
+        <publisher name="None" url="http://ceda-wps1.ceda.ac.uk:9001/wps"/>
+    </file>
+
+</metalink>
